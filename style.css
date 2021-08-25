@@ -4,3 +4,20 @@ body {
     font-size: 14px;
     color: #6c7279;
 }
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+/*==============Conteiner============*/
+.conteiner {
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+/*==============Header============*/
+.header {
+
+}
